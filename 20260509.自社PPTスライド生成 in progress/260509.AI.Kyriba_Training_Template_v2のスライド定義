@@ -1,0 +1,32 @@
+{
+  "slide_id": 1,
+  "slide_title": "トレーニング資料の表紙",
+  "slide_content": {
+    "training_title": "トレーニングの具体的な名称やタイトル。30文字以内"
+  }
+}
+{
+  "slide_id": 2,
+  "slide_title": "目次",
+  "slide_content": {
+    "agenda_list": "目次（アジェンダ）の各項目。項目ごとに改行で区切って入力。"
+  }
+}
+{
+  "slide_id": 3,
+  "slide_title": "セクション区切り（章扉）",
+  "slide_content": {
+    "section_title": "章のタイトル。大きく表示される名称。20文字以内"
+  }
+}
+{
+  "slide_id": 4,
+  "slide_title": "システム操作および作業詳細説明",
+  "slide_content": {
+    "title": "スライドのタイトル。20文字以内",
+    "system_path": "システムの操作パス（例：メニュー > 設定 > ユーザー）。50文字以内",
+    "explanation": "操作や作業の概要説明文。100文字以内",
+    "task_list": "実行するタスクの項目。各項目を「,」で区切って入力。",
+    "detail": "作業に関する詳細な補足説明。200文字以内"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slide_id": 1,
+  "slide_title": "Training Document Cover",
+  "slide_content": {
+    "title": "The primary heading of the document, such as 'Kyriba Training Document'.",
+    "training_title": "The specific name or subtitle of the training session."
+  }
+}
+{
+  "slide_id": 2,
+  "slide_title": "Table of Contents",
+  "slide_content": {
+    "title": "The main heading of the slide, typically 'Table of Contents' or 'Agenda'.",
+    "agenda_list": "A list of topics or sections to be covered, separated by commas."
+  }
+}
+{
+  "slide_id": 3,
+  "slide_title": "Section Header",
+  "slide_content": {
+    "section_title": "The primary title of the new section or chapter.",
+    "subtitle": "A brief description or subtitle providing context for the section."
+  }
+}
+{
+  "slide_id": 4,
+  "slide_title": "System Operation and Procedure Details",
+  "slide_content": {
+    "title": "The primary title of the operation or system screen.",
+    "system_path": "The specific navigation path or menu structure within the system.",
+    "explanation": "A high-level overview or context for the system functionality.",
+    "task_list": "A list of specific operational steps or tasks to be performed, separated by commas.",
+    "detail": "Supplementary details, technical notes, or specific instructions for the procedure."
+  }
+}
